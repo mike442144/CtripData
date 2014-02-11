@@ -1,0 +1,26 @@
+beijing1
+shanghai2
+guangzhou32
+chendu28
+shenzhen30
+hangzhou17
+nanjing12
+qingdao7
+xiamen25
+xian10
+wuhai477
+sanya43
+chongqing4
+dalian6
+shenyang451
+hong kong58
+jinan144
+kunming34
+changsha206
+suzhou14
+guilin33
+hefei278
+zhengzhou559
+lijiang37
+guiyang38
+wuxi13

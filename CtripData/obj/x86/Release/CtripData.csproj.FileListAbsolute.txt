@@ -1,0 +1,10 @@
+C:\Users\mike\Documents\Visual Studio 2012\Projects\CtripData\CtripData\bin\Release\CtripData.exe.config
+C:\Users\mike\Documents\Visual Studio 2012\Projects\CtripData\CtripData\bin\Release\CtripData.exe
+C:\Users\mike\Documents\Visual Studio 2012\Projects\CtripData\CtripData\bin\Release\CtripData.pdb
+C:\Users\mike\Documents\Visual Studio 2012\Projects\CtripData\CtripData\bin\Release\HtmlAgilityPack.dll
+C:\Users\mike\Documents\Visual Studio 2012\Projects\CtripData\CtripData\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\mike\Documents\Visual Studio 2012\Projects\CtripData\CtripData\bin\Release\HtmlAgilityPack.pdb
+C:\Users\mike\Documents\Visual Studio 2012\Projects\CtripData\CtripData\bin\Release\HtmlAgilityPack.xml
+C:\Users\mike\Documents\Visual Studio 2012\Projects\CtripData\CtripData\obj\x86\Release\CtripData.exe
+C:\Users\mike\Documents\Visual Studio 2012\Projects\CtripData\CtripData\obj\x86\Release\CtripData.pdb
+C:\Users\mike\Documents\Visual Studio 2012\Projects\CtripData\CtripData\obj\x86\Release\CtripData.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\mike\Documents\Visual Studio 2012\Projects\CtripData\RecoverPrice\bin\Debug\RecoverPrice.exe.config
+C:\Users\mike\Documents\Visual Studio 2012\Projects\CtripData\RecoverPrice\bin\Debug\RecoverPrice.exe
+C:\Users\mike\Documents\Visual Studio 2012\Projects\CtripData\RecoverPrice\bin\Debug\RecoverPrice.pdb
+C:\Users\mike\Documents\Visual Studio 2012\Projects\CtripData\RecoverPrice\obj\Debug\RecoverPrice.csprojResolveAssemblyReference.cache
+C:\Users\mike\Documents\Visual Studio 2012\Projects\CtripData\RecoverPrice\obj\Debug\RecoverPrice.exe
+C:\Users\mike\Documents\Visual Studio 2012\Projects\CtripData\RecoverPrice\obj\Debug\RecoverPrice.pdb
